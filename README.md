@@ -1,9 +1,9 @@
 # react-notes-app
 
-#frontend: react
-#backend: postgres, node/express
+# frontend: react
+# backend: postgres, node/express
 
-##features
+## features
 
 1. login/signup authentication, with jwt tokens and hashed passwords
 2. postgres database to store tasks
@@ -12,13 +12,13 @@
 5.  responsive
 
 
-##todo
+## todo
 
 1. improve ui
 2. add ability to share tasks, ability to add images
 
 
-##screenshots
+## screenshots
 
 ![image](https://github.com/mohitnx/react-notes-app/assets/74180772/0d0109dc-73f6-4176-9e76-d53fa5a3b4e8)
 
